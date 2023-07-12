@@ -1,0 +1,11 @@
+Model Information:
+* title:	Adiyogi Scan test
+* source:	https://sketchfab.com/3d-models/adiyogi-scan-test-f68aa4e71b88475a85ed6b0f46099940
+* author:	maulikjani9 (https://sketchfab.com/maulikjani9)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Adiyogi Scan test" (https://sketchfab.com/3d-models/adiyogi-scan-test-f68aa4e71b88475a85ed6b0f46099940) by maulikjani9 (https://sketchfab.com/maulikjani9) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
